@@ -1,5 +1,9 @@
 
 
+Uploading 0e3d478525cac986bf1b6a8a2964ee35.mp4…
+
+
+
 <h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩8ꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/cLtCXVm/cheemspic.jpg" width="540" height="280" />
@@ -21,7 +25,11 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <a href="https://github.com/DGXeon/CheemsBot-MD8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD8?color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD8?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD8/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD8?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD8"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD8"><img t
+
+https://github.com/user-attachments/assets/e16a6db0-f97b-4c09-8ca7-aa46eb2cab92
+
+itle="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD8/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD8?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD8&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD8/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -32,10 +40,12 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 -------
 
 ## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">![IMG-20240829-WA0001](https://github.com/user-attachments/assets/16dcbc3a-2f36-4d60-b483-0be98a85175f)
+
+<a href="https://wa.me+263777202290"><img src="https://img.shields.io/badge/Contact Henry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img![IMG-20240721-WA0055](https://github.com/user-attachments/assets/c933bff6-b13a-4687-9c50-9a78431eef43)
+ src="https://img.shields.io/badge/Subscribe Henry-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 </p>
 
 ## ```Donate Me```
@@ -66,7 +76,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
+[![ heruko Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 
 # Install Manually 👇
 ## `Requirements`
